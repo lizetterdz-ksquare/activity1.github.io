@@ -7,6 +7,9 @@ h1 {
 h2 {
   color: hotpink;
 }
+img {
+  width: 500px;
+}
 p {
   color: green;
 }
